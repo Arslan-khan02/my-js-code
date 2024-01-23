@@ -19,3 +19,16 @@ const name = new String('arslan')
 // slice method
 // let anotherString = name.slice(1, 5)
 // console.log(anotherString);
+
+
+// trim methods use for reoving white space this methods is use for 2 type trimStart()and trimEnd
+// const trimString = "    abc     "
+// console.log(trimString);
+// console.log(trimString. trimEnd());
+
+// replace methods
+
+// const userName= "urslan"
+// console.log(userName);
+// console.log(userName.replace('u','a'));
+// console.log(userName.includes('v'));//to find which is in or not
